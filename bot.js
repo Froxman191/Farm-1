@@ -1,10 +1,10 @@
 const Discord = require("discord.js");
-const myid = ['Your ID']
-const client = new Discord.Client();
-const client2 = new Discord.Client();
-const client3 = new Discord.Client();
-const client4 = new Discord.Client();
-const client5 = new Discord.Client();
+const myid = ['616599626534879237']
+const client = new Discord.Client("NzQwMjIxMTg0NTY5NzcwMDY0.XzMgCg.7qPE5JegzXdcNQslLTikvQ-Gb78");
+const client2 = new Discord.Client("NzQwMzIyNzQ5NzIwOTUyOTg1.XzMhDg.ks1vg5MsBqGar3AsvueYuRhvonw");
+const client3 = new Discord.Client("NzQwMzI1NTY1ODMxMDUzNDIy.XzMhWg.KzJm0bPr4kD1FQqwf0sdroSSUvw");
+const client4 = new Discord.Client("NzM5NjQxOTM1Mjg2NzYzNTQy.XzMhmg.UGQnZCHZryrKGpqq0zA7Mn-_pnY");
+const client5 = new Discord.Client("NzQwMjIwMDA2NTk5NzUzNzc4.XzMh5A.dUg_y4Cmmh-F08tH75OF1nB1ODE");
 const client6 = new Discord.Client();
 const client7 = new Discord.Client();
 const client8 = new Discord.Client();
